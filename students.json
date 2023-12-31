@@ -1,0 +1,541 @@
+[
+    {
+        "studentId": 1,
+        "name": "John",
+        "surname": "Doe",
+        "courses": ["Mathematic", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 2,
+        "name": "Jane",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 3,
+        "name": "Alice",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },
+    {
+        "studentId": 4,
+        "name": "Mert",
+        "surname": "Gürşimşir",
+        "courses": ["Mathematic", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 5,
+        "name": "Rabia",
+        "surname": "Ateş",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 6,
+        "name": "Batuhan",
+        "surname": "Barakalı",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 7,
+        "name": "Emre",
+        "surname": "Ermiş",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 8,
+        "name": "Serdar",
+        "surname": "Yildiz",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 9,
+        "name": "Şerafettin",
+        "surname": "Öztürk",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 10,
+        "name": "Baran",
+        "surname": "İşçi",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 11,
+        "name": "Gökay",
+        "surname": "Baydemir",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 12,
+        "name": "Recep",
+        "surname": "Öztürk",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 13,
+        "name": "Işil",
+        "surname": "Çolak",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 14,
+        "name": "Deniz",
+        "surname": "Bilgin",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 15,
+        "name": "Samet",
+        "surname": "Smith",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 16,
+        "name": "Berat",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 17,
+        "name": "Sude",
+        "surname": "Çat",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 18,
+        "name": "Kerem",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 19,
+        "name": "Selahattin",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 20,
+        "name": "Bekir",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 21,
+        "name": "Bahar",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 22,
+        "name": "Burçin",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 23,
+        "name": "Berke",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 24,
+        "name": "Şaban",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 25,
+        "name": "Şükriye",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 26,
+        "name": "Remziye",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 27,
+        "name": "Ali",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 28,
+        "name": "Ramazan",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 29,
+        "name": "Erdoğan",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 30,
+        "name": "Fikriye",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 31,
+        "name": "Cemile",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 32,
+        "name": "Hafize",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 33,
+        "name": "Faik",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },
+    {
+        "studentId": 34,
+        "name": "Sema",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 35,
+        "name": "İrem",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 36,
+        "name": "Fahrettin",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 37,
+        "name": "Ege",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 38,
+        "name": "Umut",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 39,
+        "name": "Yiğit",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 40,
+        "name": "Dexter",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 41,
+        "name": "Rita",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 42,
+        "name": "Debra",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 43,
+        "name": "Aragorn",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 44,
+        "name": "Arwen",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 45,
+        "name": "Bilbo",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 46,
+        "name": "Sam",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 47,
+        "name": "Legolas",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 48,
+        "name": "Gandalf",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 49,
+        "name": "Sauron",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 50,
+        "name": "Samuran",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 51,
+        "name": "Gimli",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 52,
+        "name": "Hamza",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 53,
+        "name": "Volkan",
+        "surname": "Konak",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 54,
+        "name": "Tony",
+        "surname": "Stark",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 55,
+        "name": "Harry",
+        "surname": "Potter",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 56,
+        "name": "Snape",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 57,
+        "name": "Hüseyin",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 58,
+        "name": "Alperen",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 59,
+        "name": "Yusuf",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 60,
+        "name": "Joe",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 61,
+        "name": "Muhammed",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 62,
+        "name": "Beste",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 63,
+        "name": "Yaman",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 64,
+        "name": "Mira",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 65,
+        "name": "Davy",
+        "surname": "Jones",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 66,
+        "name": "Çağr,",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 67,
+        "name": "Çağdaş",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 68,
+        "name": "Sıla",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 69,
+        "name": "Napoleon",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 70,
+        "name": "İskender",
+        "surname": "Doe",
+        "courses": ["Mathematic", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 71,
+        "name": "Sezar",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 72,
+        "name": "Sezer",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },
+    {
+        "studentId": 73,
+        "name": "Tolga",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 74,
+        "name": "İpek",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 75,
+        "name": "Taner",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 76,
+        "name": "Fahrettin",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 77,
+        "name": "Zeynep",
+        "surname": "Smith",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    },
+    {
+        "studentId": 78,
+        "name": "Ayşegül",
+        "surname": "Johnson",
+        "courses": ["Physics", "Chemistry", "Computer Science"],
+        "grades": [78, 85]
+    },{
+        "studentId": 79,
+        "name": "Ahsen",
+        "surname": "Doe",
+        "courses": ["Mathematics", "English", "History"],
+        "grades": [85, 90]
+    },
+    {
+        "studentId": 80,
+        "name": "Barış",
+        "surname": "Aygün",
+        "courses": ["Science", "Art", "Geography"],
+        "grades": [92, 88]
+    }
+    
+    
+]
