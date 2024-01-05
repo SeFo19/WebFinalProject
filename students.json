@@ -80,7 +80,8 @@
         "surname": "Öztürk",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 13,
         "name": "Işil",
         "surname": "Çolak",
@@ -140,7 +141,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 22,
         "name": "Burçin",
         "surname": "Doe",
@@ -160,7 +162,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 25,
         "name": "Şükriye",
         "surname": "Doe",
@@ -180,7 +183,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 28,
         "name": "Ramazan",
         "surname": "Doe",
@@ -200,7 +204,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 31,
         "name": "Cemile",
         "surname": "Doe",
@@ -241,7 +246,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 37,
         "name": "Ege",
         "surname": "Doe",
@@ -261,7 +267,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 40,
         "name": "Dexter",
         "surname": "Doe",
@@ -281,7 +288,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 43,
         "name": "Aragorn",
         "surname": "Doe",
@@ -301,7 +309,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 46,
         "name": "Sam",
         "surname": "Doe",
@@ -321,7 +330,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 49,
         "name": "Sauron",
         "surname": "Doe",
@@ -341,7 +351,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 52,
         "name": "Hamza",
         "surname": "Doe",
@@ -361,7 +372,8 @@
         "surname": "Stark",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 55,
         "name": "Harry",
         "surname": "Potter",
@@ -381,7 +393,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 58,
         "name": "Alperen",
         "surname": "Doe",
@@ -401,7 +414,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 61,
         "name": "Muhammed",
         "surname": "Doe",
@@ -421,7 +435,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 64,
         "name": "Mira",
         "surname": "Doe",
@@ -441,7 +456,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 67,
         "name": "Çağdaş",
         "surname": "Doe",
@@ -461,7 +477,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 70,
         "name": "İskender",
         "surname": "Doe",
@@ -502,7 +519,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 76,
         "name": "Fahrettin",
         "surname": "Doe",
@@ -522,7 +540,8 @@
         "surname": "Johnson",
         "courses": ["Physics", "Chemistry", "Computer Science"],
         "grades": [78, 85]
-    },{
+    },
+    {
         "studentId": 79,
         "name": "Ahsen",
         "surname": "Doe",
